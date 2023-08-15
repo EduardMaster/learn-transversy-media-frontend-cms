@@ -1,2 +1,2 @@
-# transversy-media-frontend-cms-class
+# Transvery Media Tutorial Frontend simple CMS
 This is an old Video of Transversy Media uploaded
